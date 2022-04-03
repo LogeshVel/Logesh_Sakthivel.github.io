@@ -1,4 +1,4 @@
 ## Hey there 👋
-### This is Logesh Sakthivel.
 
-- In this site i will be listing my Projects that i ahve done.
+I'm Logesh, a Software Engineer, self-taught Programmer who specializes in Wireless and IoT domain.
+I am passionate about Python, Go, Linux, API.
