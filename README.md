@@ -26,7 +26,7 @@ I have done some hobby projects.
       
   - **To-Do CLI APP**
  
-      To-DO APP for the CLI users.
+      To-Do APP for the CLI users.
       You can add tasks to your list. Mark the task as done. Remove the task without marking it as done.
       
       This APP has 3 lists.
