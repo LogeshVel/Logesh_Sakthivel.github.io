@@ -29,12 +29,4 @@ I have done some hobby projects.
       >To-Do APP for the CLI users.
       >You can add tasks to your list. Mark the task as done. Remove the task without marking it as done.
       
-      >This APP has 3 lists.
-      
-          - Active to-do tasks list
-          - Done tasks list
-          - Removed tasks list (task is removed from to-do list without marking it as done)
-        
-      >Delete command deletes the tasks permanently from the lists.
-      
       >[Github link](https://github.com/LogeshVel/todo)
