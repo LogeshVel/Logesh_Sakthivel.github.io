@@ -3,7 +3,7 @@
 I'm Logesh, a Software Engineer, self-taught Programmer who specializes in Wireless and IoT domain.
 I am passionate about Python, Go, Linux, API.
 
-I have done some hobby projects.
+_Here i have listed some of the projects that I have done._
   - **NetFie**
     - NetFie is a dashboard that monitors some of the Network services. The Network service includes HTTP(S), DNS, NTP... 
       
