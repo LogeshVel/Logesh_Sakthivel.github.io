@@ -29,3 +29,14 @@ _Here i have listed some of the projects that I have done._
     - You can add tasks to your list. Mark the task as done. Remove the task without marking it as done.
       
     - [Github link](https://github.com/LogeshVel/todo)
+
+
+  - **Delete Directory Recursively**
+  
+    - This CLI app finds and deletes the given directory recursively in all the hierarchies from the given path.
+    - The main moto for me to build this app is to delete the **\_\_pycache\_\_** directory in my Python Project. This **\_\_pycache\_\_** will be created in almost all the directories in the Python project. Based on my project requirement I may have 5 to 7 directory hierarchy levels.
+    - So, when I need to rm that dir its hectic for me. So here I have developed this App to do that. Just I can give the dir name as **\_\_pycache\_\_** and the path **my Project root path** to my app then this magic happens.
+    
+    - [Github link](https://github.com/LogeshVel/delete_dir_recursive)
+    
+
