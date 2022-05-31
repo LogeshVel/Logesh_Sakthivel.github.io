@@ -38,5 +38,11 @@ _Here i have listed some of the projects that I have done._
     - So, when I need to rm that dir its hectic for me. So here I have developed this App to do that. Just I can give the dir name as **\_\_pycache\_\_** and the path **my Project root path** to my app then this magic happens.
     
     - [Github link](https://github.com/LogeshVel/delete_dir_recursive)
+
+
+  - **Delete and/or Display Empty Recursively**
+  
+    - This CLI app finds and deletes the empty files in the given directory recursively in all the hierarchies from the given path.
     
+    - [Github link](https://github.com/LogeshVel/empty_item_remover)
 
