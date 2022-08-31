@@ -14,8 +14,8 @@ _Here i have listed some of the projects that I have done._
   - **Finlyser**
 
     - Finlyser is a mobile APP which is used to Track your expenses.
-    - You cound add expense in this App and you could also visualize your Expenses over a period of time.
-    - Visualize your Total Expenses, Year wise expense, Month wise on the particular year and Day wise on the particular month.
+    - You cound add your expenses in this App and you could also visualize your Expenses over a period of time.
+    - Visualize your Total Expenses, Year wise expenses, Month wise expenses on the particular year and Day wise expenses on the particular month.
     - The Main moto for me to develop this APP was user data privacy. The Expense that you add in this app to track is completed resides on your Mobile. (This APP doesn't requires any Internet connectivity since none of the data leaves your Phone.)
     - The User needs to create an account to proceed further but the coolest thing about this app is that User doesn't require to enter their Phone number or email or anything, just Username and Password is good to go. By doing so this app doesn't gets any of the User info.
     
