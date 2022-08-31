@@ -40,7 +40,7 @@ _Here i have listed some of the projects that I have done._
     - [Github link](https://github.com/LogeshVel/delete_dir_recursive)
 
 
-  - **Delete and/or Display Empty Recursively**
+  - **Delete and/or Display Empty Files Recursively**
   
     - This CLI app finds and deletes the empty files in the given directory recursively in all the hierarchies from the given path.
     
