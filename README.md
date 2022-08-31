@@ -11,16 +11,16 @@ _Here i have listed some of the projects that I have done._
       
     - [Github WiKi](https://github.com/LogeshVel/NetFie/wiki)
       
-  - **Expense Tracker**
+  - **Finlyser**
 
-    - Expense Tracker is an mobile APP which is used to Track your expenses. You can add the expense in that APP with some details for that expense.
-      
-    - By doing so this APP will keep track of your expense by Year,Month,Day wise. You can navigate through dates to see your expenses.
-    - Also it gives the total expense on Year, on Month, on Date.
-      
-    - The APP isn't published on the Playstore. I have just build this APP for my personal use so i haven't taken steps to publish it. Frankly, i have moved to another project to work on.
-      
-    - But if you want to explore my APP, you can find the APK file [here](https://drive.google.com/file/d/1mE9UHZsR4n6DDLzX47E3ESo1JAvejEGH/view?usp=sharing), i have uploaded in my drive.
+    - Finlyser is a mobile APP which is used to Track your expenses.
+    - You cound add expense in this App and you could also visualize your Expenses over a period of time.
+    - Visualize your Total Expenses, Year wise expense, Month wise on the particular year and Day wise on the particular month.
+    - The Main moto for me to develop this APP was user data privacy. The Expense that you add in this app to track is completed resides on your Mobile. (This APP doesn't requires any Internet connectivity since none of the data leaves your Phone.)
+    - The User needs to create an account to proceed further but the coolest thing about this app is that User doesn't require to enter their Phone number or email or anything, just Username and Password is good to go. By doing so this app doesn't gets any of the User info.
+    
+    - The APP isn’t published on the Playstore. I have just build this APP for my personal use so i haven’t taken steps to publish it. Frankly, i have moved to another project to work on so I am not willing to publish this and provide support for this App. (In future, i might make more additional features to this App and then I will try to publish)
+    - But if you want to explore my APP, you can find the APK file [here](https://drive.google.com/file/d/1-jo1RWmXxlJlCjesdEE_JnMAJIlLgPmI/view?usp=sharing), i have uploaded in my drive.
       
       
   - **To-Do CLI APP**
